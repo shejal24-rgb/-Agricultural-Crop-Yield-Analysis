@@ -1,0 +1,21 @@
+State,Crop,Season,Soil_Type,Rainfall_mm,Temperature_C,Fertilizer_kg,Area_Hectares,Production_Tonnes
+Maharashtra,Cotton,Kharif,Black,720,29,120,10,18
+Maharashtra,Soybean,Kharif,Black,680,27,100,12,24
+Punjab,Wheat,Rabi,Alluvial,450,21,90,15,60
+Punjab,Rice,Kharif,Alluvial,950,30,150,12,54
+Gujarat,Groundnut,Kharif,Black,600,28,110,10,20
+Gujarat,Cotton,Kharif,Black,650,30,130,14,25
+Karnataka,Ragi,Kharif,Red,550,26,80,9,18
+Karnataka,Sugarcane,Annual,Red,1100,28,180,8,96
+Uttar Pradesh,Wheat,Rabi,Alluvial,400,20,100,18,72
+Uttar Pradesh,Rice,Kharif,Alluvial,900,29,160,16,80
+Madhya Pradesh,Soybean,Kharif,Black,700,27,120,14,28
+Madhya Pradesh,Gram,Rabi,Black,350,19,70,10,15
+Rajasthan,Mustard,Rabi,Sandy,300,22,60,12,18
+Rajasthan,Bajra,Kharif,Sandy,420,32,50,15,22
+Andhra Pradesh,Rice,Kharif,Clay,1000,31,170,10,55
+Andhra Pradesh,Chilli,Rabi,Red,500,25,100,8,16
+Tamil Nadu,Sugarcane,Annual,Clay,1200,30,190,9,108
+Tamil Nadu,Rice,Kharif,Clay,850,29,150,11,50
+West Bengal,Rice,Kharif,Alluvial,1400,28,180,13,78
+West Bengal,Jute,Kharif,Alluvial,1100,27,90,7,21
